@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+streamlit-calendar>=1.0.3
+# Koneksi Google Sheets — nama resmi di PyPI:
+st-gsheets-connection>=0.0.5
+gspread>=5.12.4
+google-auth>=2.26.2
+google-auth-oauthlib>=1.2.0
+pandas>=2.1.4
+requests>=2.31.0
+plotly>=5.18.0

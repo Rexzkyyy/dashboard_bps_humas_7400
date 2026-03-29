@@ -1,0 +1,10 @@
+# File .gitignore — mencegah file sensitif ter-upload ke GitHub
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/

@@ -1,0 +1,15 @@
+[server]
+# Pastikan layout lebar agar kalender terlihat optimal di layar monitor/TV
+maxUploadSize = 50
+
+[theme]
+base = "dark"
+primaryColor = "#F26522"
+backgroundColor = "#0A0A0F"
+secondaryBackgroundColor = "#12121A"
+textColor = "#E8E8F0"
+font = "sans serif"
+
+[browser]
+# Nonaktifkan pengumpulan data penggunaan
+gatherUsageStats = false
